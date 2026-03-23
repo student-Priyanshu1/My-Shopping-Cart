@@ -4,7 +4,7 @@ A modern and responsive shopping cart application built using React. This projec
 
 🚀 Live Demo
 
-👉 Add your deployed link here (Vercel/Netlify)
+👉 https://my-shopping-cart-nu.vercel.app
 
 . 📌 Features
 . 🛍️ Add items to cart
